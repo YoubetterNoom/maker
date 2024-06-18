@@ -171,7 +171,7 @@ function App() {
         </div>
         <div className="buttons">
           <div className="button">
-            <a href="https://x.com/oillyonsolana" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/BALLY_SOLANA" target="_blank" rel="noopener noreferrer">
             TWITTER
             </a>
           </div>
