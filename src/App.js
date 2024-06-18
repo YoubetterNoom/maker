@@ -141,7 +141,7 @@ function App() {
     <div className="App">
       <div className="content">
         <div className="main">
-          <div className="art">OILLY</div>
+          <div className="art">BALLY</div>
           <div className="show">
             <div className="man-container" ref={divRef}>
               {!isEmpty("HAT") && <img src={getImg("HAT")} className="hat" />}
@@ -176,7 +176,7 @@ function App() {
             </a>
           </div>
           <div className="button">
-            <a href="https://t.me/oilly_portal" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/BALLY_SOL" target="_blank" rel="noopener noreferrer">
             TELEGRAM
             </a>
           </div>
